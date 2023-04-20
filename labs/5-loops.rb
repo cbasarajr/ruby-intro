@@ -29,8 +29,8 @@ end
 for rank in ranks
 for suit in suits
     #do something
-    puts 
-end
+    puts "#{rank} of #{suit}"
+    end
 end
 
 # CHALLENGE
